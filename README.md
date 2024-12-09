@@ -1,4 +1,4 @@
-## Hi, I'm Stefan! 👋
+# Hi, I'm Stefan! 👋
 
 ### I'm a Software Engineer who turns exciting ideas into tangible realities.
 

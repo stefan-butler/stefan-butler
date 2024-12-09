@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Stefan! 👋
 
-<!--
-**stefan-butler/stefan-butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Engineer who turns exciting ideas into tangible realities.
 
-Here are some ideas to get you started:
+🌟 I am always looking to learn new things so that I can solve problems in the best way possible!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 You can view my projects here: https://github.com/stefan-butler
+
+📩 If you'd like to reach out to discuss a collaboration, drop me a message here: stefanbutler@icloud.com 
+
+<h3 align="left">My Tech Stack:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,tailwind,postgres,nodejs,mongodb,postman,js,jquery,html,git,express,docker,angular&theme=dark)](https://skillicons.dev)

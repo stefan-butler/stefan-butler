@@ -1,6 +1,6 @@
 # Hi, I'm Stefan! 👋
 
-### I'm a Software Engineer who turns exciting ideas into tangible realities.
+### I'm a Software Engineer who turns exciting ideas into realities.
 
 🌟 I am always looking to learn new things so that I can solve problems in the best way possible!
 
